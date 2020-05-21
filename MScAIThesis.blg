@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: MScAIThesis.aux
+The style file: biblatex.bst
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: MScAIThesis-blx.bib
+Database file #2: MScAIThesis.bib
+Biblatex version: 3.13
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+You've used 5 entries,
+            6365 wiz_defined-function locations,
+            1217 strings with 9381 characters,
+and the built_in function-call counts, 20145 in all, are:
+= -- 1259
+> -- 463
+< -- 127
++ -- 445
+- -- 150
+* -- 1200
+:= -- 2037
+add.period$ -- 0
+call.type$ -- 5
+change.case$ -- 85
+chr.to.int$ -- 42
+cite$ -- 8
+duplicate$ -- 2126
+empty$ -- 1893
+format.name$ -- 217
+if$ -- 4355
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 0
+newline$ -- 127
+num.names$ -- 211
+pop$ -- 1407
+preamble$ -- 1
+purify$ -- 103
+quote$ -- 0
+skip$ -- 853
+stack$ -- 0
+substring$ -- 1798
+swap$ -- 543
+text.length$ -- 102
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 158
+warning$ -- 0
+while$ -- 295
+width$ -- 0
+write$ -- 123
